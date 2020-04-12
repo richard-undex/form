@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(0, 0, 0, 0.616);
+    height: 1600px; /* change */
+}
+
+form{
+    margin: 0 auto;
+    width: 390px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+}
+.but{
+    margin: 20px 0 0 38%;
+}
+
+input{
+    margin: 10px 0 0 22%;
+}
